@@ -2,21 +2,20 @@
 AI Workshop Resources
 
 
-### Session 1: Intro to AI**
+### Session 1: Intro to AI
 
 * [Teachable machines](https://teachablemachine.withgoogle.com/)
 * [Introduction to RNN's](https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912
 )
 * [Introduction to AI](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g1e301fae90_1_583
 )
-* 
 
 
 
 
-### Session 2: Intro to AI**
+### Session 2: Intro to AI
 
-* [Video Editing AI Software] (https://news.stanford.edu/2019/06/05/edit-video-editing-text/)
+* [Video Editing AI Software](https://news.stanford.edu/2019/06/05/edit-video-editing-text/)
 * [National Commision on Technology, Automation and Economic Progress](https://files.eric.ed.gov/fulltext/ED023803.pdf)
 * [Impact of Automation on Canadian Jobs](https://brookfieldinstitute.ca/report/the-talented-mr-robot/)
 
