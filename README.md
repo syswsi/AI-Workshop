@@ -9,6 +9,7 @@ AI Workshop Resources
 )
 * [Introduction to AI](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g1e301fae90_1_583
 )
+* [Introduction to CNN's](https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac)
 
 
 
