@@ -50,6 +50,6 @@ AI Workshop Resources
 ### Session 5: Adoption Strategies
 * [Technology Readiness](https://www.slideshare.net/lersmethasakul/technology-readiness)
 * [AI Talent Pool](https://jfgagne.ai/talent-2019/#easy-footnote-19-985)
-* [Element AI Talent Poo](https://medium.com/element-ai/)
+* [Element AI Talent Pool](https://medium.com/element-ai/)
 
 
