@@ -51,5 +51,6 @@ AI Workshop Resources
 * [Technology Readiness](https://www.slideshare.net/lersmethasakul/technology-readiness)
 * [AI Talent Pool](https://jfgagne.ai/talent-2019/#easy-footnote-19-985)
 * [Element AI Talent Pool](https://medium.com/element-ai/)
+* [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf)
 
 
